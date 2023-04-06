@@ -7,13 +7,13 @@ const Footer = () => {
       <div className="container flex flex-col md:flex-row items-center">
         <div className="flex flex-1 flex-wrap items-center justify-center md:justify-start gap-12">
           <ul className="flex text-sadd-blue uppercase gap-12 text-xs">
-            <Link to="/club" className="cursor-pointer">
+            <Link to="/key-figures" className="cursor-pointer">
               Key Figures
             </Link>
-            <Link to="/initiatives" className="cursor-pointer">
+            <Link to="/modern-connections" className="cursor-pointer">
               Modern Connections
             </Link>
-            <Link to="/safe-driving" className="cursor-pointer">
+            <Link to="/key-events" className="cursor-pointer">
               Key Events
             </Link>
           </ul>
